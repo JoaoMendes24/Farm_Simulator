@@ -1,0 +1,63 @@
+9 7
+0
+Farmer (0,0) 
+Land (0,0) normal
+Land (0,1) rock
+Land (0,2) normal
+Land (0,3) normal
+Land (0,4) rock
+Land (0,5) normal
+Land (0,6) normal
+Land (1,0) normal
+Land (1,1) normal
+Land (1,2) normal
+Land (1,3) normal
+Land (1,4) normal
+Land (1,5) normal
+Land (1,6) normal
+Land (2,0) rock
+Land (2,1) normal
+Land (2,2) normal
+Land (2,3) normal
+Land (2,4) normal
+Land (2,5) normal
+Land (2,6) rock
+Land (3,0) normal
+Land (3,1) normal
+Land (3,2) normal
+Land (3,3) rock
+Land (3,4) normal
+Land (3,5) normal
+Land (3,6) normal
+Land (4,0) normal
+Land (4,1) normal
+Land (4,2) normal
+Land (4,3) rock
+Land (4,4) normal
+Land (4,5) normal
+Land (4,6) rock
+Land (5,0) normal
+Land (5,1) normal
+Land (5,2) normal
+Land (5,3) normal
+Land (5,4) normal
+Land (5,5) normal
+Land (5,6) normal
+Land (6,0) normal
+Land (6,1) normal
+Land (6,2) normal
+Land (6,3) normal
+Land (6,4) rock
+Land (6,5) normal
+Land (6,6) normal
+Land (7,0) normal
+Land (7,1) normal
+Land (7,2) rock
+Land (7,3) normal
+Land (7,4) normal
+Land (7,5) normal
+Land (7,6) normal
+chicken (4,6) Ciclos: 0
+chicken (6,1) Ciclos: 0
+Sheep (4,0) Ciclos: 0 alimentada
+Sheep (1,6) Ciclos: 0 alimentada
